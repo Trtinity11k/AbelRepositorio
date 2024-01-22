@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardinales", "Cardinales\Cardinales.csproj", "{8D79D2E0-C146-4C6B-93F9-C93602B64996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D79D2E0-C146-4C6B-93F9-C93602B64996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D79D2E0-C146-4C6B-93F9-C93602B64996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D79D2E0-C146-4C6B-93F9-C93602B64996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D79D2E0-C146-4C6B-93F9-C93602B64996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D29D598-FDB0-4138-83A1-3E221FF876C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxMonto", "TaxMonto\TaxMonto.csproj", "{E68BDCD1-5BD8-44CC-A66B-B64797F0CAC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{6602426B-15B1-40A7-B19C-2469F3D32567}"
+	ProjectSection(SolutionItems) = preProject
+		..\Tablas de multiplicar\Tablas de multiplicar.sln = ..\Tablas de multiplicar\Tablas de multiplicar.sln
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tablas de multiplicar", "..\Tablas de multiplicar\Tablas de multiplicar.csproj", "{C917D686-9E95-404C-864D-0010FE117491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E68BDCD1-5BD8-44CC-A66B-B64797F0CAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68BDCD1-5BD8-44CC-A66B-B64797F0CAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68BDCD1-5BD8-44CC-A66B-B64797F0CAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68BDCD1-5BD8-44CC-A66B-B64797F0CAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C917D686-9E95-404C-864D-0010FE117491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C917D686-9E95-404C-864D-0010FE117491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C917D686-9E95-404C-864D-0010FE117491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C917D686-9E95-404C-864D-0010FE117491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A87074-EA31-4FDE-800A-51A2C09102B9}
+	EndGlobalSection
+EndGlobal
