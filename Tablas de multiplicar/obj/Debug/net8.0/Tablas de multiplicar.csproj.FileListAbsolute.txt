@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Tablas de multiplicar\bin\Debug\net8.0\Tablas de multiplicar.exe
+C:\Users\Admin\source\repos\Tablas de multiplicar\bin\Debug\net8.0\Tablas de multiplicar.deps.json
+C:\Users\Admin\source\repos\Tablas de multiplicar\bin\Debug\net8.0\Tablas de multiplicar.runtimeconfig.json
+C:\Users\Admin\source\repos\Tablas de multiplicar\bin\Debug\net8.0\Tablas de multiplicar.dll
+C:\Users\Admin\source\repos\Tablas de multiplicar\bin\Debug\net8.0\Tablas de multiplicar.pdb
+C:\Users\Admin\source\repos\Tablas de multiplicar\obj\Debug\net8.0\Tablas de multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Tablas de multiplicar\obj\Debug\net8.0\Tablas de multiplicar.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tablas de multiplicar\obj\Debug\net8.0\Tablas de multiplicar.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tablas de multiplicar\obj\Debug\net8.0\Tablas de multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tablas de multiplicar\obj\Debug\net8.0\Tablas de multiplicar.dll
+C:\Users\Admin\source\repos\Tablas de multiplicar\obj\Debug\net8.0\refint\Tablas de multiplicar.dll
+C:\Users\Admin\source\repos\Tablas de multiplicar\obj\Debug\net8.0\Tablas de multiplicar.pdb
+C:\Users\Admin\source\repos\Tablas de multiplicar\obj\Debug\net8.0\Tablas de multiplicar.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Tablas de multiplicar\obj\Debug\net8.0\ref\Tablas de multiplicar.dll

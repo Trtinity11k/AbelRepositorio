@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JfuAB/Hx01vUCXa7P5eYws48ONuEPqJWucqQHKlmLQQofXNMX7kIj6NLMO0675yhsf7dQrLixyhmLPR0pNbz4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Tablas de multiplicar\\Tablas de multiplicar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
